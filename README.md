@@ -11,7 +11,7 @@ This password validator checks if your password is strong enough to protect your
 - 🏆 **Score out of 100** - Gamify your password security
 - 🌐 **Beautiful web interface** - Because security should look good too
 
-## View the HTML page here: https://ryanwdurham.github.io/Password_Validator/password_checker_app.html 
+View the HTML page here: https://ryanwdurham.github.io/Password_Validator/password_checker_app.html 
 
 ## Watch a demo video of my Password Validator and Pytest in action:
 
