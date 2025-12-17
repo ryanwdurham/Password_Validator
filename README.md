@@ -11,6 +11,8 @@ This password validator checks if your password is strong enough to protect your
 - 🏆 **Score out of 100** - Gamify your password security
 - 🌐 **Beautiful web interface** - Because security should look good too
 
+I built the password validation logic in Python and validated it with 48 comprehensive pytest tests. Then I created an interactive web interface using HTML/CSS/JavaScript that implements the same validation rules, giving users a beautiful way to test passwords in real-time
+
 View the HTML page here: https://ryanwdurham.github.io/Password_Validator/password_checker_app.html 
 
 ## Watch a demo video of my Password Validator and Pytest in action:
